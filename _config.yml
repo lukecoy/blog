@@ -7,6 +7,7 @@ baseurl:     ""
 url:         "http://lukecoy.github.io/blog"
 date_format: "%b %-d, %Y"
 
+# Google analytics
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
