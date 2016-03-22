@@ -3,8 +3,8 @@ title:       luke coy
 email:       coy.luke@gmail.com
 author:      Luke Coy
 description: "Blog by Luke Coy"
-baseurl:     ""
-url:         "http://lukecoy.github.io/blog"
+baseurl:     "/blog"
+url:         "http://lukecoy.github.io"
 date_format: "%b %-d, %Y"
 
 # Google analytics
