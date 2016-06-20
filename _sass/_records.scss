@@ -1,0 +1,23 @@
+div.records {
+  text-align: center;
+
+  a {
+    color: initial;
+    background-image: none;
+  }
+
+  a:hover,
+  a:focus,
+  a:active {
+    border: 0;
+    color: initial;
+    text-decoration: none;
+    background-image: none;
+  }
+
+  img {
+    max-width: 200px;
+    min-width: 150px;
+    width:25%;
+  }
+}
