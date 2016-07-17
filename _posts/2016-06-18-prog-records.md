@@ -13,16 +13,16 @@ I figured I would share a few groups I've been listening to while I code.
 <div class="records" style="text-align:center;">
   <div>
     <a href="https://open.spotify.com/album/3DAdmvkEM9Po4AAMLEBGut">
-      <img src="http://localhost:4000/blog/assets/dreamless.jpg"/>
+      <img src="{{ site.url }}{{ site.baseurl  }}assets/dreamless.jpg"/>
     </a>
     <a href="https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4">
-      <img src="http://localhost:4000/blog/assets/animals.jpg"/>
+      <img src="{{ site.url }}{{ site.baseurl  }}/assets/pink.jpg"/>
     </a>
   </div>
   <div>
     <a href="https://open.spotify.com/album/6IxHC7QpQws3kCQkmgjKBs"/>
-    <img src="http://localhost:4000/blog/assets/above.jpg"/>
+    <img src="{{ site.url }}{{ site.baseurl  }}/assets/above.jpg"/>
     <a href="https://open.spotify.com/album/5KrMBe9A4OLbz45Ox2Q1Mu"/>
-    <img src="http://localhost:4000/blog/assets/ys.jpg"/>
+    <img src="{{ site.url }}{{ site.baseurl  }}/assets/ys.jpg"/>
   </div>
 </div>
