@@ -8,7 +8,7 @@ categories: second, music, prog, progressive, rock, metal
 
 Been months since I updated this / subsequently forgot it existed. I graduated college :) So I've been busy doing all I can with hometown friends before I leave for good.
 
-I figured I would share a few groups I've been listening to while I code.
+I figured I would share a few records I've been listening to while I code. Click a record to go to Spotify :)
 
 <div class="records" style="text-align:center;">
   <div>
