@@ -7,8 +7,10 @@ categories: first, about
 ---
 
 #### A bit about me
+<img style="float:right; margin:5%; border-style:double; border-radius:5px; width:30%; min-width:140px;" src="{{ site.url }}{{ site.baseurl }}assets/luke.jpg">
 
-For anyone stumbling over this blog that doesn't know me, I'm a young(ish) Software Engineer from upstate New York. I'm graduating from a local university in the Spring, then moving to the Golden State  to start my adventures as a professional(ish) developer.
+For anyone stumbling over this blog that doesn't know me, I'm a young(ish) Software Engineer from upstate New York. I'm
+graduating from a local university in the Spring, then moving to the Golden State  to start my adventures as a professional(ish) developer.
 
 #### Why am I doing this
 
