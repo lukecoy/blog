@@ -2,7 +2,7 @@
 layout:     post
 title:      music plug
 date:       2016-06-18 12:10:00
-summary:    a few groups I'm currently digging (while I code)
+summary:    
 categories: second, music, prog, progressive, rock, metal
 ---
 

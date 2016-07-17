@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      printf("ayy lol")
+title:      a little about me
 date:       2016-03-21 11:59:00
-summary:    Because my first dev blog post won't be called "Hello, World"
+summary:    
 categories: first, about
 ---
 
