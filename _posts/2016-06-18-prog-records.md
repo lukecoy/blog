@@ -2,7 +2,7 @@
 layout:     post
 title:      music plug
 date:       2016-06-18 12:10:00
-summary:    
+summary:    Things I jam while I code
 categories: second, music, prog, progressive, rock, metal
 ---
 

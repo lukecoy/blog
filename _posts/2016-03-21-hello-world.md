@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      a little about me
+title:      first post
 date:       2016-03-21 11:59:00
-summary:    
+summary:    A little about me
 categories: first, about
 ---
 
